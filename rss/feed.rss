@@ -3,12 +3,12 @@
  <channel>
  <title>IDE</title>
  <description>News about different IDEs</description>
- <link>http://example.org/</link>
+ <link>https://a20carlospv.github.io/ProjectRSSide</link>
  <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
  <managingEditor>a20carlospv@iessanclemente.net (Carlos Picón)</managingEditor>
  <item>
  <title>Test page</title>
- <link>http://example.org/test.html</link>
+ <link>https://a20carlospv.github.io/ProjectRSSide</link>
  <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
  <description>Some text.</description>
  </item>
